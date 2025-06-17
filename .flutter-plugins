@@ -1,0 +1,18 @@
+# This is a generated file; do not edit or check into version control.
+camera=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/camera-0.11.1/
+camera_android_camerax=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/camera_android_camerax-0.6.17/
+camera_avfoundation=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.19+2/
+camera_web=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/camera_web-0.3.5/
+firebase_core=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/firebase_core-3.14.0/
+firebase_core_web=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/firebase_core_web-2.23.0/
+flutter_plugin_android_lifecycle=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.28/
+opencv_4=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/opencv_4-1.0.0/
+path_provider=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/path_provider-2.1.5/
+path_provider_android=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/path_provider_android-2.2.17/
+path_provider_foundation=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1/
+path_provider_linux=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+sensors_plus=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/sensors_plus-6.1.1/
+sqflite=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/sqflite-2.4.1/
+sqflite_android=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/sqflite_android-2.4.0/
+sqflite_darwin=/Users/myunghoonmoon/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.1+1/
